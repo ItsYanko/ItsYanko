@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm yanko, webdev, artist/musician, skater. I might complete this README, some day.
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=itsyanko&count_private=true&show_icons=true&theme=nightowl)
 
 <!--
 **ItsYanko/ItsYanko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
